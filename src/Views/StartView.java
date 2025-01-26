@@ -1,10 +1,12 @@
-﻿package Views;
+package Views;
 import Classes.Console;
 import Interfaces.IView;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
+
+
 
 public class StartView implements IView {
     private int _choice = 0;

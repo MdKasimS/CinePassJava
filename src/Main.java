@@ -43,6 +43,7 @@ public class Main {
 
                 case 1:
                     //Start View
+                    Console.Clear();
 //                    app.View();
                     break;
 
